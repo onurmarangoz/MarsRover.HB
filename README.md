@@ -9,7 +9,7 @@ Input değerleri ilk satır Plato, diğer satırlarda her 2 satırda bir rover'a
 Giriş yapacak kullanıcının aşağıdaki data formatına uyması beklenmektedir. 
 
 5 5  
-1 2 N
+1 2 N 
 LMLMLMLMM
 3 3 E
 MMRMMRMRRM
