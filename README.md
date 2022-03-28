@@ -8,7 +8,7 @@ Client tarafı Console uygulaması, Application tarafı Class Library üzerinded
 Input değerleri ilk satır Plato, diğer satırlarda her 2 satırda bir rover'a ait olacak şekilde düzenlenmiştir.
 Giriş yapacak kullanıcının aşağıdaki data formatına uyması beklenmektedir. 
 
-5 5 
+5 5  
 1 2 N
 LMLMLMLMM
 3 3 E
